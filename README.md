@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+在成都搞 Android
 
 <!--
 **wkxjc/wkxjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
